@@ -7,6 +7,7 @@
 - remote-wsl
 - gitlens
 - vscode-icons
+- prettier: check syntax code with .prettierrc.json
 
 ## Setting
 
@@ -38,5 +39,13 @@
     "docker.images.groupBy": "RepositoryName",
     "docker.volumes.groupBy": "VolumeName",
     // End docker
+    // Start prettier
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // End prettier
 }
 ```
