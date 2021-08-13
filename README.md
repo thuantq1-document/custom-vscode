@@ -8,6 +8,7 @@
 - gitlens
 - vscode-icons
 - prettier: check syntax code with .prettierrc.json
+- Import Cost VSCode Extension
 
 ## Setting
 
