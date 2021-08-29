@@ -33,7 +33,7 @@
     "files.autoSave": "afterDelay",
     // End auto save
     // Start setup terminal
-    "terminal.integrated.shell.windows": "D:\\Software\\Git\\Setup\\bin\\bash.exe",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
     // End setup terminal
     // Start docker
     "docker.containers.groupBy": "Registry",
