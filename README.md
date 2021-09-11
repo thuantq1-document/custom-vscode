@@ -10,6 +10,11 @@
 - prettier: check syntax code with .prettierrc.json
 - Import Cost VSCode Extension
 - thunder client(replaced for postman)
+- dotenv
+- python
+- pylance
+- jupyter
+- jupyter keymap
 
 ## Setting
 
