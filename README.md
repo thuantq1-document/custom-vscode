@@ -9,6 +9,7 @@
 - vscode-icons
 - prettier: check syntax code with .prettierrc.json
 - Import Cost VSCode Extension
+- thunder client(replaced for postman)
 
 ## Setting
 
